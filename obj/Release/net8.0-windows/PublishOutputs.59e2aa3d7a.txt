@@ -1,0 +1,5 @@
+C:\Users\furkan\Desktop\New folder\WinFormsApp9.exe
+C:\Users\furkan\Desktop\New folder\WinFormsApp9.dll
+C:\Users\furkan\Desktop\New folder\WinFormsApp9.deps.json
+C:\Users\furkan\Desktop\New folder\WinFormsApp9.runtimeconfig.json
+C:\Users\furkan\Desktop\New folder\WinFormsApp9.pdb
